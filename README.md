@@ -4,7 +4,7 @@ Repo containing materials for NCME 2017 Training Session on Assessment Literacy
 
 ## Schedule
 
-**Hours 1 & 2:** A brief overview describing the current state of assessment literacy,  defining the need for assessment literacy, and summarizing efforts underway to promote assessment literacy. To contextualize assessment literacy for users, we will introduce a framework for understanding assessment literacy with regard to different stakeholder groups and domains.
+**Hours 1 & 2:** A brief overview describing the current state of assessment literacy,  defining the need for assessment literacy, and summarizing efforts underway to promote assessment literacy. To contextualize assessment literacy for users, we will introduce a framework for understanding assessment literacy with regard to different stakeholder groups and domains. [Presentation](content/Applying_a_Conceptual_Framework_for_Assessment_Literacy.pptx) [Paper](Applying_a_Conceptual_Framework_for_Assessment_Literacy.pdf)
 
 Following this introduction we will break for 10-15 minutes for coffee/juice.
 
