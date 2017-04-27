@@ -17,7 +17,8 @@ Each game you bowl is a reflection of your overall bowling ability. High ability
 
 ## Idea 3 
 
-![alt text][logo] (repost.jpg)
+![alt text][(repost.jpg)
+
 
 
 ## Conclusion
