@@ -28,6 +28,3 @@ Lunch Break
 Following these example presentations we will take a coffee/juice break.
 
 **Hours 7 & 8:** Support participants in applying new knowledge and skills in the development of a portion of a module on their own.  Topic may be chosen by the participants or selected from a list of topics provided by the session organizers.
-
-
-![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
