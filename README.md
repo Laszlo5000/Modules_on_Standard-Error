@@ -8,12 +8,16 @@ Repo containing materials for NCME 2017 Training Session on Assessment Literacy
 
 Following this introduction we will break for 10-15 minutes for coffee/juice.
 
-**Hour 3:** Walk through the process of developing the assessment module; demonstrate the tools, platform, code to support the content, etc.
+**Hour 3:** Discussion of open content production along with tools used for open content production. [Presentation](https://dbetebenner.github.io/NCME_Presentation_2017/assets/player/KeynoteDHTMLPlayer.html#0)
 
 * [GitHub](https://www.github.com)
 * [Markdown](http://ben.balter.com/2014/03/31/word-versus-markdown-more-than-mere-semantics/)
 
-**Hour 4:** Allow participants to “fork,” edit, and “produce” a module on their own by selecting resources from a pre-loaded library of data files, graphics, and required resources. [Sample Module](https://github.com/CenterForAssessment/Literasee_Setup)
+**Hour 4:** Walk through the process of developing the assessment module; demonstrate the tools, platform, code to support the content, etc..
+Allow participants to “fork,” edit, and “produce” a module on their own by selecting resources from a pre-loaded library of data files, graphics, and required resources.
+
+* [Example](https://view.literasee.io/Literasee/Georgia/report)
+* [Template](https://github.com/CenterForAssessment/Literasee_Setup)
 
 Lunch Break
 
