@@ -24,6 +24,8 @@ Lunch Break
 
 **Hour 5:** detailed instruction in setting up programs on their computers, accessing and using GitHub repositories and related tools; basics of setting up a module etc.
 
+* [Great Resource on Uncertainty](https://github.com/zonination/perceptions/blob/master/README.md)
+
 **Hour 6:** Basics of creating an interactive graphic almost “from scratch”; demonstration of core assessment literacy/measurement-related graphics; work through code and choices
 
 Following these example presentations we will take a coffee/juice break.
