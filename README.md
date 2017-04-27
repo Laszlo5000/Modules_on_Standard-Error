@@ -10,7 +10,10 @@ Following this introduction we will break for 10-15 minutes for coffee/juice.
 
 **Hour 3:** Walk through the process of developing the assessment module; demonstrate the tools, platform, code to support the content, etc.
 
-**Hour 4:** Allow participants to “fork,” edit, and “produce” a module on their own by selecting resources from a pre-loaded library of data files, graphics, and required resources. [Sample Module](https://github.com/CenterForAssessment/Literasee_Setup) 
+* [GitHub](https://www.github.com)
+* [Markdown](http://ben.balter.com/2014/03/31/word-versus-markdown-more-than-mere-semantics/)
+
+**Hour 4:** Allow participants to “fork,” edit, and “produce” a module on their own by selecting resources from a pre-loaded library of data files, graphics, and required resources. [Sample Module](https://github.com/CenterForAssessment/Literasee_Setup)
 
 Lunch Break
 
