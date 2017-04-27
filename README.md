@@ -18,6 +18,7 @@ Allow participants to “fork,” edit, and “produce” a module on their own 
 
 * [Example](https://view.literasee.io/Literasee/Georgia/report)
 * [Template](https://github.com/CenterForAssessment/Literasee_Setup)
+* [Luciana Cançado Explorable Explanation](https://github.com/CenterForAssessment/Cancado_Internship_2015)
 
 Lunch Break
 
