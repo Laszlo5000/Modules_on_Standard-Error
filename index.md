@@ -10,14 +10,14 @@ Each game you bowl is a reflection of your overall bowling ability. High ability
 
 ### Image
 
-* [gauge] 
+* How likely is it?
 
 
 
 
 ## Idea 3 
 
-![alt text][(repost.jpg  "tttl")
+![alt text](repost.jpg  "tttl")
 
 
 
