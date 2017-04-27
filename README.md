@@ -28,6 +28,8 @@ Lunch Break
 
 **Hour 6:** Basics of creating an interactive graphic almost “from scratch”; demonstration of core assessment literacy/measurement-related graphics; work through code and choices
 
+* [Interval probability of a normal distribution](https://bl.ocks.org/ctufts/73cad1cf91b1bf2ee8236ba8805ff420)
+ 
 Following these example presentations we will take a coffee/juice break.
 
 **Hours 7 & 8:** Support participants in applying new knowledge and skills in the development of a portion of a module on their own.  Topic may be chosen by the participants or selected from a list of topics provided by the session organizers.
